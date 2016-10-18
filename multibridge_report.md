@@ -38,7 +38,7 @@ Flow_ModとPacket_outを同時に行う。該当するスイッチで、パケ�
 
 #動作の説明
 
-![fig1](https://github.com/handai-trema/learning-switch-Kazuki-Ginnan/blob/develop/topology.jpg)
+![fig1](https://github.com/handai-trema/learning-switch-Kazuki-Ginnan/blob/develop2/topology.jpg)
 
 図のようなトポロジの動作例を示す
 
